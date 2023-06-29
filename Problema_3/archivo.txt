@@ -1,0 +1,5 @@
+Admin,root,adminroot,adminroot@gmail.com,400
+Root,slfa23,root,roota@gmail.com,222
+Usuario4,karlosrt45,Carlos Martin,CarlosMarin_12@gmail.com,200
+usuario5,mario_123,Mario A,marioA@GMAIL.COM,300
+Usuario6,as2sx123,Pedrito K,Pedritok@gmail.com,506
